@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Praise', cursive;
 }
 
 @media only screen and (max-width: 768px) {
